@@ -48,7 +48,7 @@ Gaming, tech events, and building cool side projects? Count me in! 🎮🚀
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thomas-koenig-dev&theme=gruvbox" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thomkraft&theme=gruvbox" alt="GitHub Streak" height="150"/>
 </div>
 
 ---
