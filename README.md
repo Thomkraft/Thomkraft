@@ -43,8 +43,8 @@ Gaming, tech events, and building cool side projects? Count me in! 🎮🚀
 ## 📈 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thomas-koenig-dev&show_icons=true&theme=gruvbox" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-koenig-dev&layout=compact&theme=gruvbox" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Thomkraft&show_icons=true&theme=gruvbox" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomkraft&layout=compact&theme=gruvbox" alt="Top Langs" height="165"/>
 </div>
 
 <div align="center">
@@ -55,9 +55,8 @@ Gaming, tech events, and building cool side projects? Count me in! 🎮🚀
 
 ## 📌 Pinned Projects
 
-- 🔗 [**My Portfolio**](https://github.com/thomas-koenig-dev/portfolio): Personal website built with SvelteKit + Tailwind CSS
-- 🔥 [**E-sport Web Platform**](https://github.com/thomas-koenig-dev/esport-paf): Competitive team management for VR tournaments
-- 🧠 [**SmartDesk**](https://github.com/thomas-koenig-dev/smartdesk): Customizable dashboard for students using Vue.js
+- 🔗 [**My Portfolio**](https://github.com/Thomkraft/MyPortfolio): Personal website built with SvelteKit + Tailwind CSS
+- 🧠 [**SmartDesk**](https://github.com/Thomkraft/SmartDesk): Customizable dashboard for students using Vue.js
 
 ---
 
@@ -67,13 +66,11 @@ Feel free to reach out for collaboration, internship opportunities, or just a ch
 
 <p>
   <a href="https://www.linkedin.com/in/thomas-koenig-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:thomas.koenig.etu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://ton-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=orange" /></a>
+  <a href="mailto:thomas.kng69@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="thomkraft.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=orange" /></a>
 </p>
 
 ---
-
-> 💡 *"Coding is not just writing lines — it's designing experiences."*
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/thomas-koenig-dev/count.svg" alt="Visitor Count"/>
