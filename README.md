@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Thomas 👨‍💻</h1>
 
 <p align="center">
-  🌍 Based in Lyon, France • 🎓 Studying Computer Science @ Lyon 1 • 💼 Seeking a full-stack apprenticeship  
+  🌍 Based in Lyon, France • 🎓 Studying Computer Science @ Lyon 1 • 💼 EffetB
 </p>
 
 ---
